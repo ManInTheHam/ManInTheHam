@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soham Joshi</h1>
-<h3 align="center">Hello </h3>
+<h3 align="center">I am a third-year engineering student, passionate about exploring the realms of coding, machine learning, and building robust applications. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manintheham&label=Profile%20views&color=0e75b6&style=flat" alt="manintheham" /> </p>
 
