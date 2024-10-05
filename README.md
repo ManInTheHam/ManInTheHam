@@ -36,12 +36,9 @@
 </p>
 <h3 align="center">Technologies & Frameworks</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react" alt="React.js" width="40" height="40" style="margin:10px;" />
   <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="40" height="40" style="margin:10px;" />
   <img src="https://skillicons.dev/icons?i=angular" alt="Angular" width="40" height="40" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" width="40" height="40" style="margin:10px;" />
   <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" width="40" height="40" style="margin:10px;" />
   <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="40" height="40" style="margin:10px;" />
   <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="40" height="40" style="margin:10px;" />
 </p>
@@ -52,7 +49,6 @@
   <img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" width="40" height="40" style="margin:10px;" />
   <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="40" height="40" style="margin:10px;" />
   <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="40" height="40" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="40" height="40" style="margin:10px;" />
   <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40" height="40" style="margin:10px;" />
 </p>
 <h3 align="center">Databases</h3>
@@ -66,7 +62,7 @@
 <td width="50%">
 <h2 align="center">📊 Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kiing-dom&theme=midnight-purple&show_icons=true" alt="Dominion's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manintheham&theme=midnight-purple&show_icons=true" alt="Soham;s GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiing-dom&theme=midnight-purple&exclude_repo=CS4287,punch-prediction-model" alt="Top Languages" />
 
 </p>
