@@ -36,8 +36,6 @@
 </p>
 <h3 align="center">Technologies & Frameworks</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="40" height="40" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=angular" alt="Angular" width="40" height="40" style="margin:10px;" />
   <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40" style="margin:10px;" />
   <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="40" height="40" style="margin:10px;" />
   <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="40" height="40" style="margin:10px;" />
@@ -56,6 +54,7 @@
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40" style="margin:10px;" />
   <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="40" height="40" style="margin:10px;" />
   <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="40" height="40" style="margin:10px;" />
   <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="40" height="40" style="margin:10px;" />
 </p>
 </td>
