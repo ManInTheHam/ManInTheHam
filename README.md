@@ -63,7 +63,7 @@
 <h2 align="center">📊 Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manintheham&theme=midnight-purple&show_icons=true" alt="Soham;s GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiing-dom&theme=midnight-purple&exclude_repo=CS4287,punch-prediction-model" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manintheham&theme=midnight-purple&exclude_repo=CS4287,punch-prediction-model" alt="Top Languages" />
 
 </p>
 </td>
