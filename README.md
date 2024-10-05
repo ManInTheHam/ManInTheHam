@@ -33,6 +33,7 @@
   <img src="https://skillicons.dev/icons?i=go" alt="Go" width="40" height="40" style="margin:10px;" />
   <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" height="40" style="margin:10px;" />
   <img src="https://skillicons.dev/icons?i=py" alt="Python" width="40" height="40" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="40" height="40" style="margin:10px;" />
 </p>
 <h3 align="center">Technologies & Frameworks</h3>
 <p align="center">
