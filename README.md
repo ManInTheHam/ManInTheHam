@@ -1,4 +1,5 @@
-<h1 align="left">Soham Joshi   <br>Currently on a quest through the lands of AI, Cloud, and Cybersecurity.</h1>
+<h1 align="left">Soham Joshi</h1>
+<h3>Currently on a quest through the lands of AI, Cloud, and Cybersecurity.</h3>
 
 ###
 
