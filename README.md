@@ -1,71 +1,106 @@
-<h1 align="center">
-  Soham Joshi 🌟
-  <a href="https://www.linkedin.com/in/soham-joshi-54aa171aa/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="30" height="30" />
-  </a>
-</h1>
-<p align="center">
-  <code>Software Engineer</code>
-</p>
-<div style="margin: 5px;">
-    <p style="margin:0;padding:0;" align="center" dir="auto">
-        <a target="_self" style="width:100%; max-width:100%;" rel="noopener norefferer nofollow" href="/">
-            <img src="https://komarev.com/ghpvc/?username=kiing-dom&style=flat-square&color=8868bd" alt="Profile Views" style="background-color: transparent;">
-        </a>
-    </p>
+<h1 align="left">Soham Joshi   <br>Currently on a quest through the lands of AI, Cloud, and Cybersecurity.</h1>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ManInTheHam&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ManInTheHam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
-<h2 align="center">Currently Doing ⏳</h2>
+###
 
-- 👷🏾‍♂️ Building cool projects
-- 🌱 Learning every day
+<h2 align="left">Programming Langs</h2>
 
+###
 
-<table>
-<tr>
-<td width="50%">
-<h2 align="center">🧰 Languages and Tools</h2>
-<h3 align="center">Languages</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" height="40" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=go" alt="Go" width="40" height="40" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" height="40" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=py" alt="Python" width="40" height="40" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="40" height="40" style="margin:10px;" />
-</p>
-<h3 align="center">Technologies & Frameworks</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="40" height="40" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="40" height="40" style="margin:10px;" />
-</p>
-<h3 align="center">Tools</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" width="40" height="40" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="40" height="40" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="40" height="40" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40" height="40" style="margin:10px;" />
-</p>
-<h3 align="center">Databases</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="40" height="40" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="40" height="40" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="40" height="40" style="margin:10px;" />
-</p>
-</td>
-<td width="50%">
-<h2 align="center">📊 Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manintheham&theme=midnight-purple&show_icons=true" alt="Soham;s GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manintheham&theme=midnight-purple&exclude_repo=CS4287,punch-prediction-model" alt="Top Languages" />
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+</div>
 
-</p>
-</td>
-</tr>
-</table>
+###
+
+<h2 align="left">Frameworks & Libraries</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+</div>
+
+###
+
+<h2 align="left">Cloud & Hosting</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+</div>
+
+###
+
+<h2 align="left">Databases</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
+</div>
+
+###
+
+<h2 align="left">Tools</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ManInTheHam/ManInTheHam/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ManInTheHam/ManInTheHam/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ManInTheHam/ManInTheHam/output/pacman-contribution-graph.svg">
+</picture>
+
+###
