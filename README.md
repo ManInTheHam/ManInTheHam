@@ -1,5 +1,5 @@
 <h1 align="left">Soham Joshi</h1>
-<h3>Just a newbie coder grinding XP in the world of advanced tech—debugging bugs, unlocking skills, and patching my way to greatness!</h3>
+<h3>Currently on a quest through the lands of AI, Cloud, and Cybersecurity.</h3>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">Programming Languages</h2>
+<h2 align="left">Programming Langs</h2>
 
 ###
 
@@ -90,5 +90,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ManInTheHam/ManInTheHam/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ManInTheHam/ManInTheHam/output/pacman-contribution-graph.svg">
 </picture>
-
-###
