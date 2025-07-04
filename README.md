@@ -1,6 +1,11 @@
 <h1 align="left">Soham Joshi</h1>
 <h3>Currently on a quest through the lands of AI, Cloud, and Cybersecurity.</h3>
 
+![Demo](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajB5c3Zsa3o5MjBrOWNneXp0OHRyZHprajc5cjR3cHR6aHBteDJ1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TcDyYYRWM2hFG9p8jl/giphy.gif)
+
+## 📽️ Project Walkthrough
+
+
 ###
 
 <div align="center">
