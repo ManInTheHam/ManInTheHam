@@ -1,28 +1,13 @@
-# 🏄‍♂️ Forrest Knight
+# 🐱‍👤 Soham Joshi
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`engineer (developer/shitposter)`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 600k subscribers.
-
-   <p align="left">
-      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/c/fknight">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/ForrestKnight?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
-
----
+I'm a developer, learning and building my digital world one step at a time. I love creating projects from scratch — planning, designing, and coding to solve real-life problems.
+I'm also exploring system design, dsa, sharing what I learn and build along the way. Whether it's code or content, I believe in learning by doing and growing with every project.
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -38,24 +23,9 @@ I'm an indie full-stack developer and content creator building my version of the
 
 #
 
-### 📺 Latest YouTube Videos
-
-<!-- BEGIN YOUTUBE-CARDS -->
-[![My Linux Ubuntu Setup for Software Development](https://ytcards.demolab.com/?id=T3sax7PB0vw&title=My+Linux+Ubuntu+Setup+for+Software+Development&lang=en&timestamp=1751899205&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1283 "My Linux Ubuntu Setup for Software Development")](https://www.youtube.com/watch?v=T3sax7PB0vw)
-[![I Overengineered 3 Buttons to Explain Software Architecture](https://ytcards.demolab.com/?id=Aw3_hOG3BzE&title=I+Overengineered+3+Buttons+to+Explain+Software+Architecture&lang=en&timestamp=1750868400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=851 "I Overengineered 3 Buttons to Explain Software Architecture")](https://www.youtube.com/watch?v=Aw3_hOG3BzE)
-[![Computer Melting](https://ytcards.demolab.com/?id=OAiLfS7Gx-g&title=Computer+Melting&lang=en&timestamp=1750462931&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=41 "Computer Melting")](https://www.youtube.com/shorts/OAiLfS7Gx-g)
-[![i'm sorry nixOS, i've failed you. maybe next time.](https://ytcards.demolab.com/?id=YMxTTTBZhYM&title=i%27m+sorry+nixOS%2C+i%27ve+failed+you.+maybe+next+time.&lang=en&timestamp=1749850211&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=902 "i'm sorry nixOS, i've failed you. maybe next time.")](https://www.youtube.com/watch?v=YMxTTTBZhYM)
-[![This Is Programmer Heaven! // What It’s Like Inside Micro Center in Silicon Valley](https://ytcards.demolab.com/?id=eQMge4nIfbg&title=This+Is+Programmer+Heaven%21+%2F%2F+What+It%E2%80%99s+Like+Inside+Micro+Center+in+Silicon+Valley&lang=en&timestamp=1749744375&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=630 "This Is Programmer Heaven! // What It’s Like Inside Micro Center in Silicon Valley")](https://www.youtube.com/watch?v=eQMge4nIfbg)
-[![My Favorite Way to Learn a New Codebase](https://ytcards.demolab.com/?id=jqHXJ3O7WGw&title=My+Favorite+Way+to+Learn+a+New+Codebase&lang=en&timestamp=1749052814&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1096 "My Favorite Way to Learn a New Codebase")](https://www.youtube.com/watch?v=jqHXJ3O7WGw)
-<!-- END YOUTUBE-CARDS -->
-
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
-
-#
-
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
+![ManInTheHam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManInTheHam&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
