@@ -1,0 +1,33 @@
+name: Daily Chess Update
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # every day at midnight UTC
+  workflow_dispatch: # allow manual trigger
+
+jobs:
+  update-board:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install python-chess cairosvg
+
+      - name: Run update script
+        run: python chess_update.py
+
+      - name: Commit & Push changes
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git add board.png game_state.txt README.md
+          git commit -m "♟️ Daily Chess Move"
+          git push
