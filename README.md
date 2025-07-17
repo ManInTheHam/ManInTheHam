@@ -26,18 +26,6 @@ I'm also exploring system design, dsa, sharing what I learn and build along the 
 
 ![ManInTheHam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManInTheHam&show_icons=true&theme=gruvbox)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
-
-#
-
-[website]: https://soh4m-portf.vercel.app/
-
-#
-
-### 📊 Stats
-
-![ManInTheHam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManInTheHam&show_icons=true&theme=gruvbox)
-
 #
 
 ### ♟️ Daily Chess Move
