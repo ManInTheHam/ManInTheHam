@@ -1,4 +1,4 @@
-# 🐱‍👤 Soham Joshi
+# 👨‍💻 Soham Joshi
 
 **`engineer (developer/shitposter)`**
 
