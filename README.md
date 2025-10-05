@@ -28,8 +28,3 @@ I'm also exploring system design, dsa, sharing what I learn and build along the 
 
 #
 
-### ♟️ Daily Chess Move
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ManInTheHam/ManInTheHam/main/board.png" width="400" />
-</p>
