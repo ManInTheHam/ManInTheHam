@@ -1,6 +1,6 @@
 # 👨‍💻 Soham Joshi
 
-**`engineer (developer/shitposter)`**
+**`engineer (developer/lifelong learner)`**
 
 I'm a developer, learning and building my digital world one step at a time. I love creating projects from scratch — planning, designing, and coding to solve real-life problems.
 I'm also exploring system design, dsa, sharing what I learn and build along the way. Whether it's code or content, I believe in learning by doing and growing with every project.
